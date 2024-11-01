@@ -2,24 +2,5 @@ title: Esiquio Iglesias Guerra
 logo: /assets/img/photo_2.jpg
 # decription: text belox
 show_downloads:  true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-
-social_links:
-  github: https://github.com/your-username
-  linkedin: https://www.linkedin.com/in/your-profile
-  twitter: https://twitter.com/your-handle
-
-
-navigation:
-  - name: "Home"
-    link: /
-  - name: "About Me"
-    link: /about
-  - name: "Projects"
-    link: /projects
-  - name: "Contact"
-    link: /contact
-
-theme_color_primary: "#3498db"
-theme_color_secondary: "#2ecc71"
