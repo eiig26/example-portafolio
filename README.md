@@ -1,32 +1,36 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, GIS, ArcGIS, Imagery Analysis
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Data Analytics and Computational Social Science | The University of Massachusetts (_Dec 2024_)								       		
+- M.S., Geographic Information Systems | Latin University of Panama (_Dece 2015_)	 			        		
+- B.S., Geomatics Engineering | Technological University of Panama (_Dec 2013_)
+
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**University of Massachusetts Amherst, United States**
+•	Tutor Consultant – MSc Data Analytics Program (Sept 2024 – Current)
+•	Internship Research Assistant – UMASS Transportation Center (June 2024 – Current)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**National Authority for Government Innovation, Panama – Coordinator of Plans and Programs (Sept 2021 – Aug 2023)**						     
+●	Coordination, training, and database management in projects related to information sciences, innovation, and geospatial technologies.
+
+**Technological University of Panama, Panama – Professor (May 2015 – Jul 2023)**
+•	Part-time professor in the subjects of Cartography, Introduction to GIS, and Special Topics to groups of Bachelor in Topography, Bachelor in Geomatics Engineering, and others. 
+
+**Esri Panama, Panama - Project Engineer (Jun 2014 – Feb 2020)**
+•	Experienced analyst, developer, and trainer specializing in geospatial analysis. Professional services and training in GIS for public, private, and non-profit organizations.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### From Data to Decisions: Understanding the Housing Prices determinants in Massachusetts
+[Github Repository]([https://github.com/eiig26/housing_predictions_603])
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This study, "From Data to Decisions: Understanding the Housing Prices Determinants," examines the impact of various factors on housing prices in Massachusetts using linear regression models. I analyzed house features (number of bedrooms, bathrooms, house size, lot size), location, median household income, population density, and crime index. My findings indicate that larger house sizes, more bathrooms, and higher population densities are associated with increased prices, while additional bedrooms and higher crime rates correlate with price declines. Regional disparities reveal that the Central, Northeast, and Southeast regions have notably higher prices compared to the Western region. Median household income is also a significant predictor. This research underscores the diverse factors influencing housing markets and demonstrates strong predictive power with a high R-squared value.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[Poster] [(https://github.com/eiig26/housing_predictions_603/blob/main/Poster_EIG_v4.pdf)]
+![Poster](/assets/img/graph.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
